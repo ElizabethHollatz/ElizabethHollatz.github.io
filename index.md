@@ -5,7 +5,9 @@
 ### PROG101 
 
 [Devour](/sample_page)
-<"internal class Game
+<" A text based adventure game where you try to surviv in the apocalypse after the zombie apocolypse has already started. Who will you find? Will you learn to fish and forage? Will you find a buddy? Will you survive?
+
+internal class Game
     {
         private Player player;
         string GameTitle = "Devour";
@@ -660,7 +662,9 @@
 
 ---
 [Puppet History Quiz Show](/pdf/sample_presentation.pdf)
-<" internal class Game
+<" A quiz show on the latest season of Puppet History by Watcher Entertainment. How much have you learned from the professor and the subsitiute? I hope you were paying attention. 
+  
+  internal class Game
     {//Beth Hollatz 2023
         private Player player1;
         private List<TriviaItem> trivia = new List<TriviaItem>();
@@ -724,7 +728,10 @@
 
 ---
 [Adopt A Robot](http://example.com/)
-<"internal class Game
+<" A short game where you get to choose a robot to adopt. 
+             
+             
+             internal class Game
     {
         Player player;
         string GameTitle = "Adopt a bot!";
